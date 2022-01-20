@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kihungu
+- 👋 Hi, I’m @CKihungu
 - 👀 I’m interested in cloud technologies, networking and automation
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open source projects and automation
