@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud technologies, networking and automation
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open source projects and automation
-- 📫 How to reach me ck@kihungu.cloud
+- 📫 How to reach me ck@kihungu.com
 
 <!---
 Kihungu/Kihungu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
