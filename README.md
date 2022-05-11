@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CKihungu
-- 👀 I’m interested in cloud technologies, networking and automation
+- 👀 I’m interested in cloud technologies, DevOps and automation
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open source projects and automation
 - 📫 How to reach me ck@kihungu.com
